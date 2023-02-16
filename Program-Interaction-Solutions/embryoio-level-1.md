@@ -1,0 +1,1 @@
+Run `/challenge/embryoio_level1` as is, under /bin/bash.

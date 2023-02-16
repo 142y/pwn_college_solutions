@@ -1,0 +1,1 @@
+bash -c "cd /tmp/lhyurh; exec /challenge/embryoio_level73"

@@ -1,0 +1,1 @@
+touch /tmp/plzxlr && echo mrpngphi > /tmp/pzlxlr && /challenge/embryoio_level5 < /tmp/pzlxlr
